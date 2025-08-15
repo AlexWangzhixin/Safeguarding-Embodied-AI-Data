@@ -16,6 +16,10 @@ This repository contains multiple projects related to safeguarding AI systems.
 
 Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
+## Branch Strategy
+
+This repository uses `main` as the primary branch. Please make all pull requests against the `main` branch.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
