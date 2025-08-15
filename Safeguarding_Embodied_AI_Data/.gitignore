@@ -1,0 +1,17 @@
+# Dependencies
+*.mat
+*.log
+*.cache
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+checkpoints/
+logs/
+results/
