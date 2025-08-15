@@ -1,0 +1,39 @@
+# MATLAB files
+*.mat
+*.mex*
+*.dll
+*.exe
+*.pdb
+
+# Binary files
+*.bin
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+Temp*
+
+# IDE files
+*.idea/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# LaTeX files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Proposal directory except for source files
+Proposal/
+!Proposal/*.tex
+!Proposal/*.bib
+!Proposal/*.cls
+!Proposal/*.sty
